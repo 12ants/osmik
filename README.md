@@ -1,0 +1,2 @@
+# osmik
+A shell experience
